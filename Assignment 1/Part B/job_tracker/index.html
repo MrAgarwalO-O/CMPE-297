@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Job Application Tracker</h1>
+        <nav>
+            <button id="showApplications">Applications</button>
+            <button id="showProfile">Profile</button>
+        </nav>
+        <div id="applicationsSection">
+            <h2>Job Applications</h2>
+            <form id="applicationForm">
+                <input type="text" id="jobId" placeholder="Job ID" required>
+                <input type="date" id="dateApplied" required>
+                <input type="text" id="role" placeholder="Role" required>
+                <input type="text" id="company" placeholder="Company" required>
+                <input type="file" id="resume" accept=".pdf,.doc,.docx">
+                <button type="submit">Add Application</button>
+            </form>
+            <ul id="applicationList"></ul>
+        </div>
+        <div id="profileSection" style="display: none;">
+            <h2>Profile</h2>
+            <form id="profileForm">
+                <input type="text" id="name" placeholder="Name" required>
+                <input type="email" id="email" placeholder="Email" required>
+                <input type="tel" id="phone" placeholder="Phone" required>
+                <textarea id="summary" placeholder="Professional Summary" required></textarea>
+                <button type="submit">Save Profile</button>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

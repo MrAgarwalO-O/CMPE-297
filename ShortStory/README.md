@@ -12,6 +12,7 @@ The primary goals are to:
 1. Survey Paper link - https://arxiv.org/html/2409.02977v1
 2. Medium Article - https://medium.com/@agarwal.sajal30/harnessing-the-power-of-large-language-model-based-agents-in-software-engineering-5971bc24d220
 3. Slide Deck - Harnessing the Power of LLM-Based Agents in Software.pptx
+4. Video - Harnessing the Power of LLM-Based Agents in Software.mp4
 
 ## References
 1. [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/html/2409.02977v1)

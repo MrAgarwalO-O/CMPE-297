@@ -11,6 +11,8 @@ The work includes:
 4. Advanced deployment of finetuned models using **Ollama** for inference.
 
 ---
+# [Demo Video](https://drive.google.com/file/d/1qCJk81bQrW-laMhBCh0AMToRJt3z9pSc/view?usp=sharing)
+
 
 ## **Part-wise Breakdown**
 

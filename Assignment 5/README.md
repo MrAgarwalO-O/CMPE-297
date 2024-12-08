@@ -13,6 +13,8 @@ The goal of this project is to demonstrate practical use cases of machine learni
 3. **RelBench**: Implements a GNN-based model for tabular prediction tasks and evaluates its performance.
 
 ---
+# [Demo Video](https://drive.google.com/file/d/1Go3Q4FOZV0nWgNzv06iJmcYB5sTJ38hs/view?usp=sharing)
+
 
 ## Notebooks and Descriptions
 

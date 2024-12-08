@@ -6,6 +6,8 @@ This assignment involves demonstrating several tasks using **small models** (lik
 
 ## Assignment Overview
 
+# [Demo Video](https://drive.google.com/file/d/1LVuR028rKJ56p1l-aIWQJ94tacpSzHX0/view?usp=drive_link)
+
 ### Part A: LLama-Factory Demonstrations
 
 1. **Supervised Fine-Tuning (LoRA/QLoRA):**
@@ -54,19 +56,13 @@ This assignment involves demonstrating several tasks using **small models** (lik
 ---
 
 
-## Deliverables
+## References
+1. [Llama Factory](https://github.com/hiyouga/LLaMA-Factory?tab=readme-ov-file)
+2. [Llama Factory Documentation](https://pypi.org/project/llamafactory/)
+3. [LM Studio](https://lmstudio.ai/docs)
+4. [Ollama](https://github.com/ollama/ollama)
+5. [Running Ollama on Google Colab](https://pub.towardsai.net/running-ollama-on-google-colab-free-tier-a-step-by-step-guide-9ef74b1f8f7a)
 
-1. **Colab Notebooks**:
-   - All Colabs uploaded, executed successfully, and shared.
-
-2. **Video Tutorials**:
-   - One-minute explanations for each Colab run in your own environment.
-   - Videos can be chunked for ease.
-
-3. **Organized GitHub Repository**:
-   - Neatly organized directory.
-   - Include a detailed **README** for setup, requirements, and steps to execute.
-   - Validate each Colab execution.
 
 ---
 

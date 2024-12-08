@@ -4,6 +4,8 @@ This repository includes comprehensive Colab notebooks illustrating **prompt eng
 
 ## Contents
 
+# [Demo Video](https://drive.google.com/file/d/1FOkPnco8G7sX0plvIETmBA8fK0kieU5G/view?usp=sharing)
+
 ### A. **Prompt Engineering Techniques**
 Illustration of various prompting techniques using GPT-4/GPT-3.5. Includes **failure cases** and solutions with:
 - **In-context Learning (ICL)**

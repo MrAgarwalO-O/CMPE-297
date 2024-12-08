@@ -6,7 +6,7 @@ This assignment involves demonstrating several tasks using **small models** (lik
 
 ## Assignment Overview
 
-# [Demo Video](https://drive.google.com/file/d/1LVuR028rKJ56p1l-aIWQJ94tacpSzHX0/view?usp=drive_link](https://drive.google.com/file/d/1UBXmA7ONRG4MnoJbT7kr5ECNi4eO4RaP/view?usp=sharing)
+# [Demo Video](https://drive.google.com/file/d/1UBXmA7ONRG4MnoJbT7kr5ECNi4eO4RaP/view?usp=sharing)
 
 ### Part A: LLama-Factory Demonstrations
 

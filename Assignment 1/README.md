@@ -20,7 +20,7 @@ Each part includes artifacts such as **video demos, transcripts, Colab notebooks
 
 ## **Deliverables**
 
-### [Video Demo](https://drive.google.com/file/d/1LVuR028rKJ56p1l-aIWQJ94tacpSzHX0/view?usp=drive_link)
+# [Video Demo](https://drive.google.com/file/d/1LVuR028rKJ56p1l-aIWQJ94tacpSzHX0/view?usp=drive_link)
 
 ### **Part A: Long Video Summarization & Article Writing**
 - **Description**:  

@@ -20,6 +20,8 @@ Each part includes artifacts such as **video demos, transcripts, Colab notebooks
 
 ## **Deliverables**
 
+### [Video Demo](https://drive.google.com/file/d/1LVuR028rKJ56p1l-aIWQJ94tacpSzHX0/view?usp=drive_link)
+
 ### **Part A: Long Video Summarization & Article Writing**
 - **Description**:  
    Use Gemini's largest experimental model to summarize a large AI-related video (minimum 2 hours), extract key takeaways, and write a detailed Medium article. Additionally, prepare a **LaTeX slideshow** of the summary for presentation.  
@@ -69,3 +71,8 @@ Each part includes artifacts such as **video demos, transcripts, Colab notebooks
 - **LaTeX** (Slideshow preparation)  
 
 ---
+
+## **References**
+- [Claude Dev](https://www.youtube.com/watch?v=UNsQHosbIoE)
+- [Using Claude 3.5](https://www.youtube.com/watch?v=DlvRRxDwTS0)
+- [Gemini](https://ai.google.dev/gemini-api/docs#get-started-with-the-gemini-api)

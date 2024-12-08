@@ -4,7 +4,7 @@
 
 This project focuses on implementing two advanced NLP case studies using PyTorch and Colab Pro environments:
 
-#[Demo Video](https://drive.google.com/file/d/1ep36_3ApF8aLrhJAsQ5c2yToxli0Tyjn/view?usp=sharing)
+# [Demo Video](https://drive.google.com/file/d/1ep36_3ApF8aLrhJAsQ5c2yToxli0Tyjn/view?usp=sharing)
 
 ### **Part A: NanoGPT Implementation**
 - **Goal**: Recreate the NanoGPT model from scratch in PyTorch using a modular approach.

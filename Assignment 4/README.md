@@ -10,6 +10,8 @@ In this assignment, we leverage the **n8n platform** to create three unique apps
 These workflows utilize agents, memory buffers, integrations like Slack, Pinecone, OpenAI, and tools like GPT-4 and Google Gemini.
 
 ---
+# [Demo Video](https://drive.google.com/file/d/1NltsjwpyQs5gbr9LWv0MBLks3iuo-2ji/view?usp=sharing)
+
 
 ## Part A: Chat Application (ChatApp)
 
